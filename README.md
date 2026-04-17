@@ -1,6 +1,10 @@
 # Notes
 
 Learning stuff through AI by taking YouTube lecture notes to blogs and reading it.
+## Lecture Info (CMU)
+
+Course Link: https://www.cs.cmu.edu/~213/schedule.html
+And publically available Youtube videos from CMU  
 
 ## CMU 15-213: Introduction to Computer Systems
 
